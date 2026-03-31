@@ -1,5 +1,0 @@
-{
-  "model": "llama3",
-  "prompt": "Analyze the following car lease contract and return JSON in the format {\"parties\":[],\"risks\":[],\"dates\":[]}:\n\nTHIS CAR LEASE CONTRACT (\"AGREEMENT\") IS ENTERED INTO AS OF March 1, 2026 BY AND BETWEEN Lessor: ABC Motors, Lessee: John Doe. The lease term is 12 months. Risk of late payment applies.",
-  "stream": false
-}
